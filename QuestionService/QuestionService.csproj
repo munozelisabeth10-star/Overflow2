@@ -22,4 +22,8 @@
       <ProjectReference Include="..\Overflow2.ServiceDefaults\Overflow2.ServiceDefaults.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="SearchService\SearchService.csproj" />
+    </ItemGroup>
+
 </Project>
